@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there and welcome 👋
+
+I have loved data and data analytics for many years and formalised this with a Master of Data Science late last year (and subsequently got a job as a Data Scientist). I am passionate about continuing to learn as much as I can about data science, and helping others in the field. I may not upload new content to my profile often, but there's always something in the works.
+
+I know Python, R and a fair amount of SQL.
+
+Some of the projects I'm currently working on are:
+- learning about the R modeltime library
+- analysing credit card loan data
+- using deep learning to predict electricity prices
+
 
 <!--
 **NikkiSarah/NikkiSarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
