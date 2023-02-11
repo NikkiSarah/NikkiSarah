@@ -2,12 +2,7 @@
 
 I have enjoyed data analytics for many years and formalised this with a Master of Data Science late last year (and subsequently got a job as a Data Scientist). I am passionate about continuing to learn as much as I can about data science, and helping others in the field. I may not upload new content to my profile often, but there's always something in the works.
 
-I know Python, R, a fair amount of SQL and how to use Power BI.
-
-Some of the projects I'm currently working on are:
-- learning about anomaly detection
-- learning about causal forests
-- an unsupervised learning project
+I'm very competent in Python and R, know a fair amount of SQL and how to use Power BI and git.
 
 <!--
 **NikkiSarah/NikkiSarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
