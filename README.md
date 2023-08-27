@@ -1,8 +1,8 @@
 ### Hi there and welcome 👋
 
-I have enjoyed data analytics for many years and formalised this with a Master of Data Science in 2022 (and subsequently got myself a job as a Data Scientist). I am passionate about continuing to learn as much as I can about data science, and helping others in the field. I may not upload new content to my profile often, but there's always something in the works.
+I'm a practicing data scientist with a tertiary qualification. I am passionate about continuing to learn as much as I can about data science, and helping others in the field. I may not upload new content to my profile often, but there's always something in the works.
 
-I'm very competent in Python and R, know a fair amount of SQL and how to use Power BI and git.
+I'm very competent in Python and R, know a fair amount of SQL and how to use Power BI and git. I typically prefer working in an IDE over a notebook unless the need requires, and am starting to appreciate the simplicity of a virtualised/cloud environments when the set-up is tricky on my local machine (e.g. spark).
 
 <!--
 **NikkiSarah/NikkiSarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
